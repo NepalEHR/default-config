@@ -25,7 +25,7 @@ FROM
     FROM
         diagnosis_concept_view
     WHERE
-        icd10_code IN ('A86' , 'B74.9', 'B54', 'B50.9', 'B51.9', 'A90', 'B55.9', 'A01.0', 'A09', 'A06.9', 'A03.9','K52.9','A00.9','B82.9','R17','B15.9','B17.2','E86')) first_answers
+        icd10_code IN ('A86' , 'B74.9', 'B54', 'B50.9', 'B51.9', 'A90', 'B55.9', 'A01.0', 'A09.9', 'A06.9', 'A03.9','K52.9','A00.9','B82.9','R17','B15','B17.9','E86')) first_answers
         LEFT OUTER JOIN
     (SELECT DISTINCT
         (p.person_id),
@@ -47,7 +47,7 @@ FROM
         AND o.voided = 0
         AND cn.voided = 0
      JOIN diagnosis_concept_view dcv ON dcv.concept_id = o.value_coded
-        AND dcv.icd10_code IN ('A86' , 'B74.9', 'B54', 'B50.9', 'B51.9', 'A90', 'B55.9', 'A01.0', 'A09', 'A06.9', 'A03.9','K52.9','A00.9','B82.9','R17','B15.9','B17.2','E86')
+        AND dcv.icd10_code IN ('A86' , 'B74.9', 'B54', 'B50.9', 'B51.9', 'A90', 'B55.9', 'A01.0', 'A09.9', 'A06.9', 'A03.9','K52.9','A00.9','B82.9','R17','B15','B17.9','E86')
     WHERE
         p.voided = 0) first_concept ON first_concept.icd10_code = first_answers.icd10_code
         LEFT OUTER JOIN
