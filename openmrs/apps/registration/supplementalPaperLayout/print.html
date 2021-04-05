@@ -2,45 +2,44 @@
 <div>
     <style>
     </style>
- <div class="row">
+    <div class="row fontForSticker">
         <div class="left">
-            <span class="label">NepalEHR Hospital</span>
-            <span></span>
-         </div>
- <div class="row">
-                <span><b>NHIS {{patient['NHIS Number']}}</b></span>
+
+            <div class="row">
+                <span><b>{{patient.primaryIdentifier.identifier}}</b></span>
             </div>
-   
-        <div class="right">
-            <span class="label">दर्ता मिती:</span>
-            <span>{{today | date:'dd/MM/yyyy'}}</span>
-        </div>
-    </div>
-    <div class="row">
-            <span class="label">बिरामी दर्ता नम्बर:</span>
-            <span>{{patient.primaryIdentifier.identifier}}</span>
-        </div>
-        <div class="right">
-            <span class="label">गाउँ:</span>
-            <span>{{patient.address.cityVillage}}</span>
-        </div>
-    </div>
-    <div class="row">
-        <div class="right">
-            <span class="label">नाम:</span>
-            <span>{{patient.fullNameLocal() || patient.name}}</span>
-        </div>
-        <div class="row">
-            <span class="label">जिल्ला :</span>
-            <span>{{patient.address.countyDistrict}}</span>
-        </div>
-    </div>
-        <div class="right">
-            <span class="label">उमेर /लिंग:</span>
-            <span>{{patient.age.years || "0"}}</span>
-            <span ng-show="patient.gender">/ {{patient.gender}}</span>
-        </div>
-    </div>
+	<div class="row">
+		<span><b>NHIS {{patient['NHIS Number']}}</b></span>
+	    </div>	
+            <div class="row">
+                <span>{{patient.fullNameLocal()}}</span>
+            </div>
+
+            <div ng-switch on="patient.gender" class="row">
+                <span>
+                    ({{patient.age.years}},
+                </span>
+                <span ng-switch-when="M">
+                    Male)
+                </span>
+                <span ng-switch-when="F">
+                    Female)
+                </span>
+            </div>
+
+            <div class="row">
+                <span>{{today | date:'dd/MM/yyyy'}}</span>
+            </div>
+
+            <div class="row">
+                <span>{{patient.address.cityVillage}}</span>
+                <span>{{patient.address.address1}}</span>
+                <span>{{patient.address.countyDistrict}}</span>
+            </div>
+
+            <div class="row dept">
+                <span>{{obs['Department Sent To'][0].value}}</span>
+            </div>
         </div>
     </div>
 </div>
