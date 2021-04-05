@@ -26,14 +26,14 @@
     "config": {
 		 "patientInformation": {
                
-		"insurance":{
-			"title":"Insurance Information",
-			"attributes":[
-				"NHIS Member",
-				"NHIS Number",
-				"NHIS Primary Contact Point"
-			]
-		},
+                "additionalPatientInformation": { 
+                    "title": "Insurance Information", 
+                    "attributes": ["NHIS Number",
+				   "NHIS Member Active",
+                                    "NHIS Primary Contact Point" ] 
+              
+
+	       },
                 "hidden": {
                     "attributes": [
                         "primaryContact"
