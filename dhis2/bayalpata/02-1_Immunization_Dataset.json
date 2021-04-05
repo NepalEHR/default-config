@@ -1,10 +1,10 @@
 {
-  "orgUnit": "Bm39oMfSNir",
+  "orgUnit": "ovO6vDVvmrX",
   "reports": {
     "Immunized children count": {
       "dataValues": [    	
 		{
-		"_comment": "Vaccine-BCG Vaccine",
+		"_comment": "Vaccine-BCG ",
           "categoryOptionCombo": "kdsirVNKdhm",  
           "dataElement": "w84aFW1LESM",
           "row": 4,
@@ -126,14 +126,14 @@
           "column": 3
         },
         {
-		"_comment": "ANC, TD Given-first",
+		"_comment": "ANC-TD given-first",
           "categoryOptionCombo": "kdsirVNKdhm", 
           "dataElement": "vvjFCmI0DBV", 
           "row": 1,
           "column": 3
         },
         {
-		"_comment": "ANC, TD Given-second",
+		"_comment": "ANC-TD given-second",
           "categoryOptionCombo": "kdsirVNKdhm",  
           "dataElement": "T6HLuCqpOMn",
           "row": 2,
@@ -141,7 +141,7 @@
         }
 		,
         {
-		"_comment": "ANC, TD Given-seond plus",
+		"_comment": "ANC-TD given-seond plus",
           "categoryOptionCombo": "kdsirVNKdhm",  
           "dataElement": "q0XkNvBOqZc",
           "row": 3,

@@ -1,5 +1,5 @@
 {
-	"orgUnit": "Bm39oMfSNir",
+	"orgUnit": "ovO6vDVvmrX",
 	"reports": {
 		"16 Laboratory Services Dataset": {
 			"dataValues": [{
@@ -162,7 +162,7 @@
 					"_comment": "Haematology-Rh-Type",
 					"categoryOptionCombo": "kdsirVNKdhm",
 					"dataElement": "JX7RzmPZcdL",
-					"row": 23,
+					"row": 22,
 					"column": 6
 				},
 				{
@@ -474,20 +474,6 @@
 					"column": 6
 				},
 				{
-					"_comment": "Immunology-Rapid MP Test",
-					"categoryOptionCombo": "kdsirVNKdhm",
-					"dataElement": "B5ykil1xCD7",
-					"row": 63,
-					"column": 7
-				},
-				{
-					"_comment": "Immunology-Rapid MP Test",
-					"categoryOptionCombo": "kdsirVNKdhm",
-					"dataElement": "uxXLme8h5rp",
-					"row": 63,
-					"column": 8
-				},
-				{
 					"_comment": "Immunology-Mantoux",
 					"categoryOptionCombo": "kdsirVNKdhm",
 					"dataElement": "iR2RIlfklv4",
@@ -539,7 +525,7 @@
 					"_comment": "Biochemistry-Albumin",
 					"categoryOptionCombo": "kdsirVNKdhm",
 					"dataElement": "KxjvbnzwCwh",
-					"row": 72,
+					"row": 73,
 					"column": 6
 				},
 				{
@@ -930,9 +916,35 @@
 					"dataElement": "SXwweKinsnK",
 					"row": 145,
 					"column": 6
+				},
+
+				
+
+
+
+
+
+				{
+					"_comment": "Hormones/endocrinology-T3",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "LzXPUrRvir7",
+					"row": 155,
+					"column": 6
+				},
+				{
+					"_comment": "Hormones/endocrinology-T4",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "WqsPscUDVDk",
+					"row": 156,
+					"column": 6
+				},
+				{
+					"_comment": "Hormones/endocrinology TSH",
+					"categoryOptionCombo": "kdsirVNKdhm",
+					"dataElement": "QsKf27NOrBI",
+					"row": 157,
+					"column": 6
 				}
-
-
 
 			]
 		}

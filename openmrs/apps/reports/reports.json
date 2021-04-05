@@ -6,7 +6,7 @@
 		"type": "concatenated",
 		"config": {
 			"reports": [{
-					"name": "Reporting Status(New and Existing Clients)",
+					"name": "Front page-Total clients served (New and Existing Clients)",
 					"type": "MRSGeneric",
 					"config": {
 						"sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/01-Reporting_Status/new_and_existing_clients.sql"
@@ -212,7 +212,7 @@
 		}
 	},
 
-	"06 Safe Motherhood Program": {
+"06 Safe Motherhood Program": {
 		"name": "06 Safe Motherhood Program",
 		"DHISProgram": true,
 		"type": "concatenated",
@@ -313,6 +313,20 @@
 					"type": "MRSGeneric",
 					"config": {
 						"sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/06-Safe_Motherhood_Program/Safe_Abortion_Total.sql"
+					}
+				},
+				{
+					"name": "Aama Program to be given",
+					"type": "MRSGeneric",
+					"config": {
+						"sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/06-Safe_Motherhood_Program/Aama_Program_to_be_given.sql"
+					}
+				},
+				{
+					"name": "Aama Program",
+					"type": "MRSGeneric",
+					"config": {
+						"sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/06-Safe_Motherhood_Program/Aama_Program.sql"
 					}
 				}
 			]
@@ -774,17 +788,17 @@
 					}
 				},
 				{
-					"name": "STI Cases-by Syndromes",
-					"type": "MRSGeneric",
-					"config": {
-						"sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/13-HIV_AIDS/13_3_STI_Cases_ By_Syndromes.sql"
-					}
-				},
-				{
 					"name": "STI Cases-by Etiology",
 					"type": "MRSGeneric",
 					"config": {
 						"sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/13-HIV_AIDS/13_3_STI_Cases_By_Etiology.sql"
+					}
+				},
+{
+					"name": "STI Cases-by Etiology Syphilis Treated",
+					"type": "MRSGeneric",
+					"config": {
+						"sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/13-HIV_AIDS/13_3_STI_Cases_By_Etiology_Syphilis_Treated.sql"
 					}
 				},
 				{
@@ -799,6 +813,13 @@
 					"type": "MRSGeneric",
 					"config": {
 						"sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/13-HIV_AIDS/13_3_STI_Cases_By_Sex_Treated.sql"
+					}
+				},
+{
+					"name": "STI Cases-by Sex Diagnosed",
+					"type": "MRSGeneric",
+					"config": {
+						"sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/13-HIV_AIDS/13_3_STI_Cases_By_Sex_Diagnosed.sql"
 					}
 				},
 
@@ -858,7 +879,7 @@
 			},
 			{
 				"name": "Gender Equity and Social Inclusion HIV AIDS",
-				"type": "MRSGeneric",
+				"type": "ElisGeneric",
 				"config": {
 					"sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/14-Gender-Equity-and-Social-Inclusion/Gender_ Equity_and_Social_Inclusion_HIV.sql"
 				}
@@ -1009,7 +1030,7 @@
 					"name": "OPD Surgical Problems(Total and New OPD)",
 					"type": "MRSGeneric",
 					"config": {
-						"sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/15-OPD/15-15_Surgical_Problem_Total_OPD_New_Old.sql"
+						"sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/15-OPD/15-15_Surgical_Problem_Total _OPD_New_Old.sql"
 					}
 				}
 			]
@@ -1043,10 +1064,10 @@
 		"type": "concatenated",
 		"config": {
 			"reports": [{
-					"name": "Hospital Services - Total Client Served",
+					"name": "Hospital Services - OPD clients served",
 					"type": "MRSGeneric",
 					"config": {
-						"sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/17-1-Hospital_Summary_Dataset/number_of_clients.sql"
+						"sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/17-1-Hospital_Summary_Dataset/outpatientServices.sql"
 					}
 				},
 				{
@@ -1071,7 +1092,7 @@
 					}
 				},
 				{
-					"name": "Hospital Services - Referred In patient",
+					"name": "Hospital Services - Referred in patient",
 					"type": "MRSGeneric",
 					"config": {
 						"sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/17-1-Hospital_Summary_Dataset/referred_in.sql"
@@ -1099,7 +1120,7 @@
 					}
 				},
 				{
-					"name": "Hospital Services - Diagnostic Services (USG, ECG)",
+					"name": "Hospital Services - Diagnostic Services (USG, X-ray, ECG)",
 					"type": "MRSGeneric",
 					"config": {
 						"sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/17-1-Hospital_Summary_Dataset/usg_ecg_count.sql"
@@ -1142,15 +1163,6 @@
 						"sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/17-2-Hospital_Indoor_Services_Dataset/gestational_weeks_maternal_age.sql"
 					}
 				},
-
-				{
-					"name": "Summary of Indoor Services Inpatient Outcome Referred Out",
-					"type": "MRSGeneric",
-					"config": {
-						"sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/17-2-Hospital_Indoor_Services_Dataset/inpatient_referredout.sql"
-					}
-				},
-
 				{
 					"name": "FreeHealthServices Outpatient",
 					"type": "MRSGeneric",
@@ -1191,10 +1203,17 @@
 				},
 
 				{
-					"name": "Summary of Indoor Services Minor Surgeries",
+					"name": "Summary of Indoor Services Minor Surgeries OPD ER",
 					"type": "MRSGeneric",
 					"config": {
-						"sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/17-2-Hospital_Indoor_Services_Dataset/minor_surgeries.sql"
+						"sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/17-2-Hospital_Indoor_Services_Dataset/minor_surgeries_opd_er.sql"
+					}
+				},
+				{
+					"name": "Summary of Indoor Services Minor Surgeries IPD",
+					"type": "MRSGeneric",
+					"config": {
+						"sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/17-2-Hospital_Indoor_Services_Dataset/minor_surgeries _ipd.sql"
 					}
 				},
 
@@ -1248,7 +1267,21 @@
 			}]
 		}
 	},
-	
+	"EWARS Plus": {
+		"name": "EWARS Plus",
+		"DHISProgram": true,
+		"type": "concatenated",
+		"config": {
+			"reports": [{
+				"name": "EWARS Plus",
+				"type": "MRSGeneric",
+				"config": {
+					"sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/Covid19/Covid19.sql"
+				}
+			}]
+		}
+	},
+
 	"Anesthesia_number_of_clients_served": {
 		"name": "Anesthesia Number of Clients Served",
 		"type": "MRSGeneric",
@@ -1361,7 +1394,7 @@
 		"config": {
 			"ageGroupName": "All Ages",
 			"conceptNames": [
-				"Safe Abortion, Post Abortion Care"
+				"SA-Post abortioon care"
 			]
 		}
 	},
@@ -1401,7 +1434,7 @@
 		"config": {
 			"ageGroupName": "IMAM",
 			"conceptNames": [
-				"Nutrition, Nutritional Status"
+				"Nutrition-Nutritional status"
 			]
 		}
 	},
@@ -1412,6 +1445,37 @@
 			"sqlPath": "/var/www/bahmni_config/openmrs/reports/hmis/labresult.sql"
 		}
 	},
+ "procedure_notes": {
+"name": "Procedure note",
+"diy": "true",
+"type": "obsTemplate",
+"config": {
+"templateName": "Procedure note"
+           }
+},
+"Canned_obs": {
+     "name": "Diagnosis Canned OBS Report",
+     "diy": "true",
+     "type": "observations",
+     "config": {
+         "visitAttributes": [
+             "Visit Status",
+             "Admission Status"
+         ],
+         "showVisitInfo": true,
+         "showProvider": true,
+         "conceptNamesToFilter": [ "Coded Diagnosis"],
+         "conceptNameDisplayFormat": "shortNamePreferred",
+         "applyDateRangeFor": "obsDate",
+         "encounterPerRow": false,
+         "forDataAnalysis": true,
+         "visitTypesToFilter": [
+             "General",
+              "Emergency"
+                               ]
+                 }
+},
+ 
 	"mental_health_registry": {
 		"name": "Mental Health Registry",
 		"type": "MRSGeneric",

@@ -1,11 +1,11 @@
 {
-  "orgUnit": "Bm39oMfSNir",
+  "orgUnit": "ovO6vDVvmrX",
   "reports": { 
     "16 Laboratory Services Dataset(Other)": {
       "dataValues": [    	
 		{
 		 "_comment": "Biochemistry-S_Protein",
-          "categoryOptionCombo": "kdsirVNKdhm",  
+          "categoryOptionCombo": "kdsirVNKdhm", 
           "dataElement": "n5icJ65j8Q3",
           "row": 1,
           "column": 1
@@ -13,20 +13,20 @@
 		{
 		 "_comment": "Biochemistry-other",
           "categoryOptionCombo": "kdsirVNKdhm",  
-          "dataElement": "RqSKEolefFR",
+          "dataElement": "RqSKEolefFR",              
           "row": 1,
           "column": 2
         },
 		{
 		 "_comment": "Bacteriology-gm_stain",
           "categoryOptionCombo": "kdsirVNKdhm",  
-          "dataElement": "coBAbfppycX",
+          "dataElement": "coBAbfppycX",                      
           "row": 1,
           "column": 3
         },
 		{
 		 "_comment": "Bacteriology-body_fluid_culture",
-          "categoryOptionCombo": "kdsirVNKdhm",  
+          "categoryOptionCombo": "kdsirVNKdhm",                   
           "dataElement": "xMXbKs6edeu",
           "row": 1,
           "column": 4
@@ -39,41 +39,118 @@
           "column": 5
         },
 		{
-		"_comment": "Immunology-TPHA",
-          "categoryOptionCombo": "wCvNkhhbSbl",  
+		"_comment": "Immunology-TPHA total",
+          "categoryOptionCombo": "A0ezJDD4TfL",  
+          "dataElement": "KQGrcNYhocs",                  
+          "row": 1,
+          "column": 6
+        },
+		{
+		"_comment": "Immunology-TPHA +ve",
+          "categoryOptionCombo": "wCvNkhhbSbl", 
           "dataElement": "KQGrcNYhocs",
           "row": 1,
-          "column": 6
-        },
-		{
-		"_comment": "Immunology-RPR/VDRL",
-          "categoryOptionCombo": "kdsirVNKdhm",  
-          "dataElement": "llvGO9epm7O",
-          "row": 1,
-          "column": 6
-        },
-		{
+          "column": 7
+		},
+        {
 		"_comment": "Biochemistry-Sugar-F",
-          "categoryOptionCombo": "kdsirVNKdhm",  
+          "categoryOptionCombo": "kdsirVNKdhm",    
           "dataElement": "GYgsh4jyQhD",
           "row": 1,
-          "column": 7
-        },
+          "column": 9
+		},
 		{
 		"_comment": "Biochemistry-Sugar-PP",
           "categoryOptionCombo": "kdsirVNKdhm",  
           "dataElement": "icbE4llLraf",
           "row": 1,
-          "column": 8
+          "column": 10
         },
 		{
 		"_comment": "Biochemistry-Sugar-R",
           "categoryOptionCombo": "kdsirVNKdhm",  
           "dataElement": "jp5y3JXmVEx",
           "row": 1,
-          "column": 9
+          "column": 11
+        },
+		{	
+		"_comment": "Virology-HIV total",
+          "categoryOptionCombo": "A0ezJDD4TfL",  
+          "dataElement": "HJpcsC6D0at",                   
+          "row": 1,
+          "column": 12
+        },
+		{	
+		"_comment": "Virology-HIV +ve",
+          "categoryOptionCombo": "wCvNkhhbSbl",  
+          "dataElement": "HJpcsC6D0at",             
+          "row": 1,
+          "column": 13
+        },
+		{	
+		"_comment": "Hematology PT-INT",
+          "categoryOptionCombo": "kdsirVNKdhm",      
+          "dataElement": "hvKJZhQvtlD",
+          "row": 1,
+          "column": 15
+        },
+		{
+		 "_comment": "Haematology_Others",
+          "categoryOptionCombo": "kdsirVNKdhm",   
+          "dataElement": "ksFMz4c0I39",
+          "row": 1,
+          "column": 16
+        },
+		{
+		 "_comment": "Virology-HBsAG total",
+          "categoryOptionCombo": "A0ezJDD4TfL",  
+          "dataElement": "X8FtE4lSQYQ",
+          "row": 1,
+          "column": 17
+        },
+		{
+		 "_comment": "Virology-HBsAG +ve",
+          "categoryOptionCombo": "wCvNkhhbSbl",  
+          "dataElement": "X8FtE4lSQYQ",
+          "row": 1,
+          "column": 18
+        },
+		{
+		 "_comment": "Virology-HCV total",
+          "categoryOptionCombo": "A0ezJDD4TfL",  
+          "dataElement": "AETUEJEkhGk",
+          "row": 1,
+          "column": 20
+        },
+		{
+		 "_comment": "Virology-HCV +ve",
+          "categoryOptionCombo": "wCvNkhhbSbl",  
+          "dataElement": "AETUEJEkhGk",
+          "row": 1,
+          "column": 21
+        },
+		{
+		 "_comment": "Parasitology CPK-NAC",
+          "categoryOptionCombo": "kdsirVNKdhm",  
+          "dataElement": "Ikff1OUhABP",
+          "row": 1,
+          "column": 23
+        },
+		{
+		 "_comment": "Bacteriology Sputum AFB total",   
+          "categoryOptionCombo": "A0ezJDD4TfL",  
+          "dataElement": "iHLe8HKsB3K",
+          "row": 1,
+          "column": 24
+        },
+		{
+		 "_comment": "Bacteriology Sputum AFB +ve",
+          "categoryOptionCombo": "wCvNkhhbSbl",  
+          "dataElement": "iHLe8HKsB3K",              
+          "row": 1,
+          "column": 25
         }
-		
+				
       ]
     }
 	

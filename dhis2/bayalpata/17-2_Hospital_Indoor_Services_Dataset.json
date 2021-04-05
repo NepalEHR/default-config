@@ -1,5 +1,5 @@
 {
-	"orgUnit": "Bm39oMfSNir",
+	"orgUnit": "ovO6vDVvmrX",
 	"reports": {
 		"Summary of Indoor Services Gestational weeks(Neonate Form)": {
 			"dataValues": [{
@@ -1058,31 +1058,55 @@
 			]
 		},
 
-		"Summary of Indoor Services Minor Surgeries": {
+		"Summary of Indoor Services Minor Surgeries OPD ER": {
 			"dataValues": [{
+					"comment":"opd female",
 					"categoryOptionCombo": "ye1QuAMRG5Z",
 					"dataElement": "XOIIA9PktoG",
-					"row": 2,
-					"column": 3
-				},
-
-				{
-					"categoryOptionCombo": "ye1QuAMRG5Z",
-					"dataElement": "ds89kwFirfa",
-					"row": 1,
+					"row": 3,
 					"column": 3
 				},
 				{
+					"comment":"opd male",
 					"categoryOptionCombo": "PflKpozpO7b",
 					"dataElement": "XOIIA9PktoG",
 					"row": 4,
 					"column": 3
 				},
+
 				{
+					"comment":"er female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "PPLkh56gSDt",
+					"row": 1,
+					"column": 3
+				},
+				
+				{
+					"comment":"er male",
+					"categoryOptionCombo": "PflKpozpO7b",
+					"dataElement": "PPLkh56gSDt",
+					"row": 2,
+					"column": 3
+				}
+
+			]
+		},
+		"Summary of Indoor Services Minor Surgeries IPD": {
+			"dataValues": [{
+					"comment":" female",
+					"categoryOptionCombo": "ye1QuAMRG5Z",
+					"dataElement": "ds89kwFirfa",
+					"row": 1,
+					"column": 2
+				},
+
+				{
+					"comment":" male",
 					"categoryOptionCombo": "PflKpozpO7b",
 					"dataElement": "ds89kwFirfa",
-					"row": 3,
-					"column": 3
+					"row": 2,
+					"column": 2
 				}
 
 			]

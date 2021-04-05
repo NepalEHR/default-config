@@ -1,5 +1,5 @@
 {
-  "orgUnit": "Bm39oMfSNir",
+  "orgUnit": "ovO6vDVvmrX",
   "reports": {
     "OPD Communicable Immunizable": {
       "dataValues": [    						 
@@ -74,7 +74,7 @@
           "column": 3
         },
 		 {
-		 "_comment": "Hepatitis B-F",
+		 "_comment": "Hepatitis b-F",
           "categoryOptionCombo": "ye1QuAMRG5Z",  
           "dataElement": "cI801zaVGau",
           "row": 11,
@@ -156,7 +156,7 @@
           "column": 4
         },
 		 {
-		 "_comment": "Hepatitis B-M",
+		 "_comment": "Hepatitis b-M",
           "categoryOptionCombo": "PflKpozpO7b",  
           "dataElement": "cI801zaVGau",
           "row": 11,
@@ -191,14 +191,14 @@
           "column": 3
         },
 		 {
-		 "_comment": "Malaria(Plasmodium Falciparum)-F",
+		 "_comment": "Malaria(Plasmodium falciparum)-F",
           "categoryOptionCombo": "ye1QuAMRG5Z",  
           "dataElement": "fZsSPCGs3d9",
           "row": 4,
           "column": 3
         },
 		 {
-		 "_comment": "Malaria(Plasmodium Vivax)-F",
+		 "_comment": "Malaria(Plasmodium vivax)-F",
           "categoryOptionCombo": "ye1QuAMRG5Z",  
           "dataElement": "LZYfptKIqkh",
           "row": 5,
@@ -289,7 +289,7 @@
           "column": 3
         },
 		 {
-		 "_comment": "Volume Depletion (Dehydration)-F",
+		 "_comment": "Volume depletion (Dehydration)-F",
           "categoryOptionCombo": "ye1QuAMRG5Z",  
           "dataElement": "ZZsL7yaqg4L",
           "row": 18,
@@ -322,14 +322,14 @@
           "column": 4
         },
 		 {
-		 "_comment": "Malaria(Plasmodium Falciparum)-M",
+		 "_comment": "Malaria(Plasmodium falciparum)-M",
           "categoryOptionCombo": "PflKpozpO7b",  
           "dataElement": "fZsSPCGs3d9",
           "row": 4,
           "column": 4
         },
 		 {
-		 "_comment": "Malaria(Plasmodium Vivax)-M",
+		 "_comment": "Malaria(Plasmodium vivax)-M",
           "categoryOptionCombo": "PflKpozpO7b",  
           "dataElement": "LZYfptKIqkh",
           "row": 5,
@@ -420,7 +420,7 @@
           "column": 4
         },
 		 {
-		 "_comment": "Volume Depletion (Dehydration)-M",
+		 "_comment": "Volume depletion (Dehydration)-M",
           "categoryOptionCombo": "PflKpozpO7b",  
           "dataElement": "ZZsL7yaqg4L",
           "row": 18,
@@ -454,7 +454,7 @@
           "column": 3
         },
 		 {
-		 "_comment": "Urethral Discharge Syndrome(UDS)Gonococal-F",
+		 "_comment": "Urethral discharge syndrome(UDS)Gonococal-F",
           "categoryOptionCombo": "ye1QuAMRG5Z",  
           "dataElement": "B8CqXFlCBr5",
           "row": 4,
@@ -462,14 +462,24 @@
         },
 		 
 		 {
-		 "_comment": "Vaginal Discharge Syndrome (VDS)-F",
+		 "_comment": "Vaginal discharge syndrome (VDS)-F",
+          "categoryOptionCombo": "ye1QuAMRG5Z",  
+          "dataElement": "HuGvgg2pOA2",
+          "row": 5,
+          "column": 3
+        },
+        
+        
+        {
+		 "_comment": "Inflammatory disorders of scrotum (Scrotal Swelling Syndrome)-F",
           "categoryOptionCombo": "ye1QuAMRG5Z",  
           "dataElement": "HuGvgg2pOA2",
           "row": 6,
           "column": 3
         },
+        
 		 {
-		 "_comment": "Lower Abdominal Pain Syndrome (LAPS)-F",
+		 "_comment": "Lower Abdominal pain Syndrome (LAPS)-F",
           "categoryOptionCombo": "ye1QuAMRG5Z",  
           "dataElement": "uPijgtgd0jA",
           "row": 7,
@@ -490,7 +500,7 @@
           "column": 3
         },
 		 {
-		 "_comment": "Inguinal Bubo Syndrome (IBS)-F",
+		 "_comment": "Inguinal bubo syndrome (IBS)-F",
           "categoryOptionCombo": "ye1QuAMRG5Z",  
           "dataElement": "s4WLJ0dumzx",
           "row": 11,
@@ -586,7 +596,7 @@
           "column": 4
         },
 		 {
-		 "_comment": "Urethral Discharge Syndrome(UDS)Gonococal-M",
+		 "_comment": "Urethral discharge syndrome(UDS)Gonococal-M",
           "categoryOptionCombo": "PflKpozpO7b",  
           "dataElement": "B8CqXFlCBr5",
           "row": 4,
@@ -601,14 +611,14 @@
         },
 		 
 		 {
-		 "_comment": "Vaginal Discharge Syndrome (VDS)-M",
+		 "_comment": "Vaginal discharge syndrome (VDS)-M",
           "categoryOptionCombo": "PflKpozpO7b",  
           "dataElement": "HuGvgg2pOA2",
           "row": 6,
           "column": 4
         },
 		 {
-		 "_comment": "Lower Abdominal Pain Syndrome (LAPS)-M",
+		 "_comment": "Lower Abdominal pain Syndrome (LAPS)-M",
           "categoryOptionCombo": "PflKpozpO7b",  
           "dataElement": "uPijgtgd0jA",
           "row": 7,
@@ -629,7 +639,7 @@
           "column": 4
         },
 		 {
-		 "_comment": "Inguinal Bubo Syndrome (IBS)-M",
+		 "_comment": "Inguinal bubo syndrome (IBS)-M",
           "categoryOptionCombo": "PflKpozpO7b",  
           "dataElement": "s4WLJ0dumzx",
           "row": 11,
@@ -823,70 +833,70 @@
 		"_comment": "Acne-F",
           "categoryOptionCombo": "ye1QuAMRG5Z",  
           "dataElement": "VAqYKbRvrHe",
-          "row": 2,
+          "row": 1,
           "column": 3
         },
 		 {
 		 "_comment": "Warts-F",
           "categoryOptionCombo": "ye1QuAMRG5Z",  
           "dataElement": "aoQoJU7AQ9O",
-          "row": 3,
+          "row": 2,
           "column": 3
         },
 		 {
 		 "_comment": "Chloasma/ melasma-F",
           "categoryOptionCombo": "ye1QuAMRG5Z",  
           "dataElement": "ZfcANR0riP1",
-          "row": 4,
+          "row": 2,
           "column": 3
         },
 		 {
 		 "_comment": "Urticaria-F",
           "categoryOptionCombo": "ye1QuAMRG5Z",  
           "dataElement": "FN5uLuYjGmq",
-          "row": 5,
+          "row": 4,
           "column": 3
         },
 		 {
 		 "_comment": "Dermatitis/Eczema-F",
           "categoryOptionCombo": "ye1QuAMRG5Z",  
           "dataElement": "tS2cUtWNXpI",
-          "row": 6,
+          "row": 5,
           "column": 3
         },
 		 {
 		 "_comment": "Alopecia-F",
           "categoryOptionCombo": "ye1QuAMRG5Z",  
           "dataElement": "DuhReYAWpjc",
-          "row": 7,
+          "row": 6,
           "column": 3
         },
 		 {
 		 "_comment": "Vitiligo-F",
           "categoryOptionCombo": "ye1QuAMRG5Z",  
           "dataElement": "Xzw4N8KPWQS",
-          "row": 8,
+          "row": 7,
           "column": 3
         },
 		 {
 		 "_comment": "Albinism-F",
           "categoryOptionCombo": "ye1QuAMRG5Z",  
           "dataElement": "Xfr7s6N5ILP",
-          "row": 9,
+          "row": 8,
           "column": 3
         },
 		 {
 		 "_comment": "Herpes simplex-F",
           "categoryOptionCombo": "ye1QuAMRG5Z",  
           "dataElement": "FAaK12zZX3M",
-          "row": 10,
+          "row": 9,
           "column": 3
         },
 		 {
 		 "_comment": "Herpes zoster-F",
           "categoryOptionCombo": "ye1QuAMRG5Z",  
           "dataElement": "ZfULTbeDgRF",
-          "row": 1,
+          "row": 10,
           "column": 3
         },
 		 {
@@ -914,49 +924,49 @@
 		 "_comment": "Abscess-F",
           "categoryOptionCombo": "ye1QuAMRG5Z",  
           "dataElement": "axzMcDrcIfU",
-          "row": 14,
+          "row": 15,
           "column": 3
         },
 		 {
 		 "_comment": "Furunculosis-F",
           "categoryOptionCombo": "ye1QuAMRG5Z",  
           "dataElement": "mq1lHdw5EZ2",
-          "row": 15,
+          "row": 14,
           "column": 3
         },
 		 {
 		 "_comment": "Fungal infection (Lichen planus) A-F",
           "categoryOptionCombo": "ye1QuAMRG5Z",  
           "dataElement": "rwQjknPpoey",
-          "row": 16,
+          "row": 31,
           "column": 3
         },
 		 {
 		 "_comment": "Scabies-F",
           "categoryOptionCombo": "ye1QuAMRG5Z",  
           "dataElement": "txuV68xtrYc",
-          "row": 17,
+          "row": 32,
           "column": 3
         },
 		 {
 		 "_comment": "Leukoderma-F",
           "categoryOptionCombo": "ye1QuAMRG5Z",  
           "dataElement": "JNQxHWNvhcf",
-          "row": 18,
+          "row": 33,
           "column": 3
         },
 		{
 		 "_comment": "Psoriasis-F",
           "categoryOptionCombo": "ye1QuAMRG5Z",  
           "dataElement": "ZhcOrFM8ho1",
-          "row": 19,
+          "row": 34,
           "column": 3
         },
 		 {
 		 "_comment": "Acute Lymphadenitis-F",
           "categoryOptionCombo": "ye1QuAMRG5Z",  
           "dataElement": "IihXJC3GzYF",
-          "row": 20,
+          "row": 35,
           "column": 3
         },
 		
@@ -967,70 +977,70 @@
 		"_comment": "Acne-M",
           "categoryOptionCombo": "PflKpozpO7b",  
           "dataElement": "VAqYKbRvrHe",
-          "row": 2,
+          "row": 1,
           "column": 4
         },
 		 {
 		 "_comment": "Warts-M",
           "categoryOptionCombo": "PflKpozpO7b",  
           "dataElement": "aoQoJU7AQ9O",
-          "row": 3,
+          "row": 2,
           "column": 4
         },
 		 {
 		 "_comment": "Chloasma/ melasma-M",
           "categoryOptionCombo": "PflKpozpO7b",  
           "dataElement": "ZfcANR0riP1",
-          "row": 4,
+          "row": 3,
           "column": 4
         },
 		 {
 		 "_comment": "Urticaria-M",
           "categoryOptionCombo": "PflKpozpO7b",  
           "dataElement": "FN5uLuYjGmq",
-          "row": 5,
+          "row": 4,
           "column": 4
         },
 		 {
 		 "_comment": "Dermatitis/Eczema-M",
           "categoryOptionCombo": "PflKpozpO7b",  
           "dataElement": "tS2cUtWNXpI",
-          "row": 6,
+          "row": 5,
           "column": 4
         },
 		 {
 		 "_comment": "Alopecia-M",
           "categoryOptionCombo": "PflKpozpO7b",  
           "dataElement": "DuhReYAWpjc",
-          "row": 7,
+          "row": 6,
           "column": 4
         },
 		 {
 		 "_comment": "Vitiligo-M",
           "categoryOptionCombo": "PflKpozpO7b",  
           "dataElement": "Xzw4N8KPWQS",
-          "row": 8,
+          "row": 7,
           "column": 4
         },
 		 {
 		 "_comment": "Albinism-M",
           "categoryOptionCombo": "PflKpozpO7b",  
           "dataElement": "Xfr7s6N5ILP",
-          "row": 9,
+          "row": 8,
           "column": 4
         },
 		 {
 		 "_comment": "Herpes simplex-M",
           "categoryOptionCombo": "PflKpozpO7b",  
           "dataElement": "FAaK12zZX3M",
-          "row": 10,
+          "row": 9,
           "column": 4
         },
 		 {
 		 "_comment": "Herpes zoster-M",
           "categoryOptionCombo": "PflKpozpO7b",  
           "dataElement": "ZfULTbeDgRF",
-          "row": 1,
+          "row": 10,
           "column": 4
         },
 		 {
@@ -1058,49 +1068,49 @@
 		 "_comment": "Abscess-M",
           "categoryOptionCombo": "PflKpozpO7b",  
           "dataElement": "axzMcDrcIfU",
-          "row": 14,
+          "row": 15,
           "column": 4
         },
 		 {
 		 "_comment": "Furunculosis-M",
           "categoryOptionCombo": "PflKpozpO7b",  
           "dataElement": "mq1lHdw5EZ2",
-          "row": 15,
+          "row": 14,
           "column": 4
         },
 		 {
 		 "_comment": "Fungal infection (Lichen planus) A-M",
           "categoryOptionCombo": "PflKpozpO7b",  
           "dataElement": "rwQjknPpoey",
-          "row": 16,
+          "row": 31,
           "column": 4
         },
 		 {
 		 "_comment": "Scabies-M",
           "categoryOptionCombo": "PflKpozpO7b",  
           "dataElement": "txuV68xtrYc",
-          "row": 17,
+          "row": 32,
           "column": 4
         },
 		 {
 		 "_comment": "Leukoderma-M",
           "categoryOptionCombo": "PflKpozpO7b",  
           "dataElement": "JNQxHWNvhcf",
-          "row": 18,
+          "row": 33,
           "column": 4
         },
 		{
 		 "_comment": "Psoriasis-M",
           "categoryOptionCombo": "PflKpozpO7b",  
           "dataElement": "ZhcOrFM8ho1",
-          "row": 19,
+          "row": 34,
           "column": 4
         },
 		 {
 		 "_comment": "Acute Lymphadenitis-M",
           "categoryOptionCombo": "PflKpozpO7b",  
           "dataElement": "IihXJC3GzYF",
-          "row": 10,
+          "row": 35,
           "column": 4
         }
 		]

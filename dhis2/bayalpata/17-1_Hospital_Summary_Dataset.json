@@ -1,7 +1,7 @@
 {
-  "orgUnit": "Bm39oMfSNir",
+  "orgUnit": "ovO6vDVvmrX",
   "reports": {
-    "Hospital Services - Total Client Served": {
+    "Hospital Services - OPD clients served": {
       "dataValues": [    						 
         {
           "categoryOptionCombo": "I1gylzOskBs",
@@ -172,7 +172,7 @@
 		 {
           "categoryOptionCombo": "kdsirVNKdhm", 
           "dataElement": "hE0Kl0AKRKj",
-          "row": 2,
+          "row": 3,
           "column": 2
         },
 		 {
@@ -195,7 +195,7 @@
       ]
     },
 	
-	"Hospital Services - Referred In patient":{
+	"Hospital Services - Referred in patient":{
       "dataValues": [
         {
           "categoryOptionCombo": "ye1QuAMRG5Z",  
@@ -267,18 +267,24 @@
     },
 	
 	
-	"Hospital Services - Diagnostic Services (USG, ECG)":{
+	"Hospital Services - Diagnostic Services (USG, X-ray, ECG)":{
       "dataValues": [
         {
           "categoryOptionCombo": "kdsirVNKdhm", 
           "dataElement": "Hy2ikWKzAUh",  
           "row": 1,
-          "column": 2
+          "column": 1
         },
-		{
+        {
+          "categoryOptionCombo": "kdsirVNKdhm", 
+          "dataElement": "RXIa0TIoAP4",  
+          "row": 1,
+          "column": 3
+        },
+	    	{
           "categoryOptionCombo": "kdsirVNKdhm", 
           "dataElement": "HXPj1cIqZIC",
-          "row": 2,
+          "row": 1,
           "column": 2 
         }
       ]

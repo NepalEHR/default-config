@@ -1,47 +1,47 @@
 
 {
-	"orgUnit": "Bm39oMfSNir",
+	"orgUnit": "ovO6vDVvmrX",
 	"reports": {
 
 		"HIV Testing And Counseling (TESTED)": {
 			"dataValues": [
 				{
-					"_comment": "Sex Workers< 14-F",
+					"_comment": "Sex workers< 14-F",
 					"categoryOptionCombo": "ktewykzGsbr",
 					"dataElement": "UZWkdkiLYVo",
 					"row": 1,
 					"column": 3
 				},
 				{
-					"_comment": "Sex Workers<14-M",
+					"_comment": "Sex workers<14-M",
 					"categoryOptionCombo": "glbQsKDFJrG",
 					"dataElement": "UZWkdkiLYVo",
 					"row": 1,
 					"column": 2
 				},
 				{
-					"_comment": "Sex Workers<14-TG",
+					"_comment": "Sex workers<14-TG",
 					"categoryOptionCombo": "isbBWYkOrVP",
 					"dataElement": "UZWkdkiLYVo",
 					"row": 1,
 					"column": 4
 				},
 				{
-					"_comment": "Sex Workers>15-F",
+					"_comment": "Sex workers>15-F",
 					"categoryOptionCombo": "wCZsbIsa9rH",
 					"dataElement": "UZWkdkiLYVo",
 					"row": 2,
 					"column": 3
 				},
 				{
-					"_comment": "Sex Workers>15-M",
+					"_comment": "Sex workers>15-M",
 					"categoryOptionCombo": "cZrEUSOhHVk",
 					"dataElement": "UZWkdkiLYVo",
 					"row": 2,
 					"column": 2
 				},
 				{
-					"_comment": "Sex Workers>15-TG",
+					"_comment": "Sex workers>15-TG",
 					"categoryOptionCombo": "M0wfP2DJ3P3",
 					"dataElement": "UZWkdkiLYVo",
 					"row": 2,
@@ -143,42 +143,42 @@
 
 
 				{
-					"_comment": "Blood or Organ Recipients< 14-F",
+					"_comment": "Blood or organ recipients< 14-F",
 					"categoryOptionCombo": "fwaz4RR3Tre",
 					"dataElement": "UZWkdkiLYVo",
 					"row": 1,
 					"column": 12
 				},
 				{
-					"_comment": "Blood or Organ Recipients<14-M",
+					"_comment": "Blood or organ recipients<14-M",
 					"categoryOptionCombo": "O6M2EBNPFP7",
 					"dataElement": "UZWkdkiLYVo",
 					"row": 1,
 					"column": 11
 				},
 				{
-					"_comment": "Blood or Organ Recipients<14-TG",
+					"_comment": "Blood or organ recipients<14-TG",
 					"categoryOptionCombo": "qlGoV92ORDK",
 					"dataElement": "UZWkdkiLYVo",
 					"row": 1,
 					"column": 13
 				},
 				{
-					"_comment": "Blood or Organ Recipients>15-F",
+					"_comment": "Blood or organ recipients>15-F",
 					"categoryOptionCombo": "IzBht8sFGFw",
 					"dataElement": "UZWkdkiLYVo",
 					"row": 2,
 					"column": 12
 				},
 				{
-					"_comment": "Blood or Organ Recipients>15-M",
+					"_comment": "Blood or organ recipients>15-M",
 					"categoryOptionCombo": "neJMbz1JWhT",
 					"dataElement": "UZWkdkiLYVo",
 					"row": 2,
 					"column": 11
 				},
 				{
-					"_comment": "Blood or Organ Recipients>15-TG",
+					"_comment": "Blood or organ recipients>15-TG",
 					"categoryOptionCombo": "crfB7rhtTiy",
 					"dataElement": "UZWkdkiLYVo",
 					"row": 2,
@@ -187,42 +187,42 @@
 
 
 				{
-					"_comment": "Clients of Sex Workers< 14-F",
+					"_comment": "Clients of Sex workers< 14-F",
 					"categoryOptionCombo": "MRMvulHYLee",
 					"dataElement": "UZWkdkiLYVo",
 					"row": 1,
 					"column": 15
 				},
 				{
-					"_comment": "Clients of Sex Workers<14-M",
+					"_comment": "Clients of Sex workers<14-M",
 					"categoryOptionCombo": "FPfChlEZQy5",
 					"dataElement": "UZWkdkiLYVo",
 					"row": 1,
 					"column": 14
 				},
 				{
-					"_comment": "Clients of Sex Workers<14-TG",
+					"_comment": "Clients of Sex workers<14-TG",
 					"categoryOptionCombo": "Cl7Tv5Z6R5h",
 					"dataElement": "UZWkdkiLYVo",
 					"row": 1,
 					"column": 16
 				},
 				{
-					"_comment": "Clients of Sex Workers>15-F",
+					"_comment": "Clients of Sex workers>15-F",
 					"categoryOptionCombo": "hKrgGMEUOzj",
 					"dataElement": "UZWkdkiLYVo",
 					"row": 2,
 					"column": 14
 				},
 				{
-					"_comment": "Clients of Sex Workers>15-M",
+					"_comment": "Clients of Sex workers>15-M",
 					"categoryOptionCombo": "aE0Nyjyej0F",
 					"dataElement": "UZWkdkiLYVo",
 					"row": 2,
 					"column": 15
 				},
 				{
-					"_comment": "Clients of Sex Workers>15-TG",
+					"_comment": "Clients of Sex workers>15-TG",
 					"categoryOptionCombo": "mKzpVqbW7mU",
 					"dataElement": "UZWkdkiLYVo",
 					"row": 2,
@@ -380,42 +380,42 @@
 		"HIV Testing And Counseling (POSITIVE)": {
 			"dataValues": [
 				{
-					"_comment": "Sex Workers< 14-F",
+					"_comment": "Sex workers< 14-F",
 					"categoryOptionCombo": "ktewykzGsbr",
 					"dataElement": "NyJJEDI5shJ",
 					"row": 1,
 					"column": 3
 				},
 				{
-					"_comment": "Sex Workers<14-M",
+					"_comment": "Sex workers<14-M",
 					"categoryOptionCombo": "glbQsKDFJrG",
 					"dataElement": "NyJJEDI5shJ",
 					"row": 1,
 					"column": 2
 				},
 				{
-					"_comment": "Sex Workers<14-TG",
+					"_comment": "Sex workers<14-TG",
 					"categoryOptionCombo": "isbBWYkOrVP",
 					"dataElement": "NyJJEDI5shJ",
 					"row": 1,
 					"column": 4
 				},
 				{
-					"_comment": "Sex Workers>15-F",
+					"_comment": "Sex workers>15-F",
 					"categoryOptionCombo": "wCZsbIsa9rH",
 					"dataElement": "NyJJEDI5shJ",
 					"row": 2,
 					"column": 3
 				},
 				{
-					"_comment": "Sex Workers>15-M",
+					"_comment": "Sex workers>15-M",
 					"categoryOptionCombo": "cZrEUSOhHVk",
 					"dataElement": "NyJJEDI5shJ",
 					"row": 2,
 					"column": 2
 				},
 				{
-					"_comment": "Sex Workers>15-TG",
+					"_comment": "Sex workers>15-TG",
 					"categoryOptionCombo": "M0wfP2DJ3P3",
 					"dataElement": "NyJJEDI5shJ",
 					"row": 2,
@@ -519,42 +519,42 @@
 
 
 				{
-					"_comment": "Blood or Organ Recipients< 14-F",
+					"_comment": "Blood or organ recipients< 14-F",
 					"categoryOptionCombo": "fwaz4RR3Tre",
 					"dataElement": "NyJJEDI5shJ",
 					"row": 1,
 					"column": 12
 				},
 				{
-					"_comment": "Blood or Organ Recipients<14-M",
+					"_comment": "Blood or organ recipients<14-M",
 					"categoryOptionCombo": "O6M2EBNPFP7",
 					"dataElement": "NyJJEDI5shJ",
 					"row": 1,
 					"column": 11
 				},
 				{
-					"_comment": "Blood or Organ Recipients<14-TG",
+					"_comment": "Blood or organ recipients<14-TG",
 					"categoryOptionCombo": "qlGoV92ORDK",
 					"dataElement": "NyJJEDI5shJ",
 					"row": 1,
 					"column": 13
 				},
 				{
-					"_comment": "Blood or Organ Recipients>15-F",
+					"_comment": "Blood or organ recipients>15-F",
 					"categoryOptionCombo": "IzBht8sFGFw",
 					"dataElement": "NyJJEDI5shJ",
 					"row": 2,
 					"column": 12
 				},
 				{
-					"_comment": "Blood or Organ Recipients>15-M",
+					"_comment": "Blood or organ recipients>15-M",
 					"categoryOptionCombo": "neJMbz1JWhT",
 					"dataElement": "NyJJEDI5shJ",
 					"row": 2,
 					"column": 11
 				},
 				{
-					"_comment": "Blood or Organ Recipients>15-TG",
+					"_comment": "Blood or organ recipients>15-TG",
 					"categoryOptionCombo": "crfB7rhtTiy",
 					"dataElement": "NyJJEDI5shJ",
 					"row": 2,
@@ -563,42 +563,42 @@
 
 
 				{
-					"_comment": "Clients of Sex Workers< 14-F",
+					"_comment": "Clients of Sex workers< 14-F",
 					"categoryOptionCombo": "MRMvulHYLee",
 					"dataElement": "NyJJEDI5shJ",
 					"row": 1,
 					"column": 15
 				},
 				{
-					"_comment": "Clients of Sex Workers<14-M",
+					"_comment": "Clients of Sex workers<14-M",
 					"categoryOptionCombo": "FPfChlEZQy5",
 					"dataElement": "NyJJEDI5shJ",
 					"row": 1,
 					"column": 14
 				},
 				{
-					"_comment": "Clients of Sex Workers<14-TG",
+					"_comment": "Clients of Sex workers<14-TG",
 					"categoryOptionCombo": "Cl7Tv5Z6R5h",
 					"dataElement": "NyJJEDI5shJ",
 					"row": 1,
 					"column": 16
 				},
 				{
-					"_comment": "Clients of Sex Workers>15-F",
+					"_comment": "Clients of Sex workers>15-F",
 					"categoryOptionCombo": "hKrgGMEUOzj",
 					"dataElement": "NyJJEDI5shJ",
 					"row": 2,
 					"column": 14
 				},
 				{
-					"_comment": "Clients of Sex Workers>15-M",
+					"_comment": "Clients of Sex workers>15-M",
 					"categoryOptionCombo": "aE0Nyjyej0F",
 					"dataElement": "NyJJEDI5shJ",
 					"row": 2,
 					"column": 15
 				},
 				{
-					"_comment": "Clients of Sex Workers>15-TG",
+					"_comment": "Clients of Sex workers>15-TG",
 					"categoryOptionCombo": "mKzpVqbW7mU",
 					"dataElement": "NyJJEDI5shJ",
 					"row": 2,
@@ -981,7 +981,7 @@
 		},
 		"Total Clients Assessed STI": {
 			"dataValues": [{
-					"_comment": "Total Clients Assessed-Female Sex Workers (FSWs)",
+					"_comment": "Total Clients Assessed-Female Sex workers (FSWs)",
 					"categoryOptionCombo": "N8obptCXv0k",
 					"dataElement": "rkYQJyToheM",
 					"row": 10,
@@ -1049,7 +1049,7 @@
 		
 		"STI Cases-by Etiology": {
 			"dataValues": [{
-					"_comment": "Cervicitis-Female Sex Workers (FSWs)",
+					"_comment": "Cervicitis-Female Sex workers (FSWs)",
 					"categoryOptionCombo": "N8obptCXv0k",
 					"dataElement": "YkjB6ddFhMt",
 					"row": 10,
@@ -1117,7 +1117,7 @@
 
 
 				{
-					"_comment": "Vaginitis-Female Sex Workers (FSWs)",
+					"_comment": "Vaginitis-Female Sex workers (FSWs)",
 					"categoryOptionCombo": "N8obptCXv0k",
 					"dataElement": "ZUe8gWgC2a4",
 					"row": 65,
@@ -1186,7 +1186,7 @@
 
 
 				{
-					"_comment": "Herpes genitalis-Female Sex Workers (FSWs)",
+					"_comment": "Herpes genitalis-Female Sex workers (FSWs)",
 					"categoryOptionCombo": "N8obptCXv0k",
 					"dataElement": "NO4Q1cqiuAj",
 					"row": 32,
@@ -1251,7 +1251,7 @@
 
 
 				{
-					"_comment": "Gm Stain +ve-Female Sex Workers (FSWs)",
+					"_comment": "Gm Stain +ve-Female Sex workers (FSWs)",
 					"categoryOptionCombo": "N8obptCXv0k",
 					"dataElement": "iWbV0HzlWsL",
 					"row": 21,
@@ -1317,7 +1317,7 @@
 
 
 				{
-					"_comment": "Syphilis-Female Sex Workers (FSWs)",
+					"_comment": "Syphilis-Female Sex workers (FSWs)",
 					"categoryOptionCombo": "N8obptCXv0k",
 					"dataElement": "gLvteKd7Kwe",
 					"row": 54,

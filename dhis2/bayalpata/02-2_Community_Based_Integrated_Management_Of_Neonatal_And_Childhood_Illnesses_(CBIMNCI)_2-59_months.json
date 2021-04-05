@@ -1,5 +1,5 @@
 {
-	"orgUnit": "Bm39oMfSNir",
+	"orgUnit": "ovO6vDVvmrX",
 	"reports": {
 		"Total Registered Cases (2-59)months": {
 			"dataValues": [{
@@ -22,62 +22,67 @@
 				{
 					"categoryOptionCombo": "J0QYmZGlEii",
 					"dataElement": "GGkot8wSlCj",
-					"row": 2,
+					"row": 3,
 					"column": 3
 				},
 				{
 					"categoryOptionCombo": "J0QYmZGlEii",
 					"dataElement": "KcPFNbB3UZg",
-					"row": 3,
+					"row": 4,
 					"column": 3
 				},
 				{
 					"_comment": "Dehydration",
 					"categoryOptionCombo": "J0QYmZGlEii",
 					"dataElement": "A2lsvQ94qw5",
-					"row": 5,
-					"column": 3
-				},
-				{
-					"categoryOptionCombo": "J0QYmZGlEii",
-					"dataElement": "SlIi0mTWXte",
-					"row": 7,
-					"column": 3
-				},
-				{
-					"categoryOptionCombo": "J0QYmZGlEii",
-					"dataElement": "Z7hy1EP2KW5",
-					"row": 6,
-					"column": 3
-				},
-				{
-					"categoryOptionCombo": "J0QYmZGlEii",
-					"dataElement": "KZzKMkn4H7q",
-					"row": 8,
-					"column": 3
-				},
-				{
-					"categoryOptionCombo": "J0QYmZGlEii",
-					"dataElement": "sAdwOfXe6Ld",
 					"row": 10,
 					"column": 3
 				},
 				{
 					"categoryOptionCombo": "J0QYmZGlEii",
-					"dataElement": "cvo4qh1QkTA",
-					"row": 12,
-					"column": 3
-				},
-				{
-					"categoryOptionCombo": "J0QYmZGlEii",
-					"dataElement": "CIO7DFOzXSy",
+					"dataElement": "SlIi0mTWXte",
 					"row": 13,
 					"column": 3
 				},
 				{
 					"categoryOptionCombo": "J0QYmZGlEii",
-					"dataElement": "z8fdZad32Pv",
+					"dataElement": "Z7hy1EP2KW5",
+					"row": 12,
+					"column": 3
+				},
+				{
+        "_comment": "Chronic diarrhea",
+					"categoryOptionCombo": "J0QYmZGlEii",
+					"dataElement": "KZzKMkn4H7q",
+					"row": 14,
+					"column": 3
+				},
+				{
+        "_comment": "Dysentery",
+					"categoryOptionCombo": "J0QYmZGlEii",
+					"dataElement": "sAdwOfXe6Ld",
 					"row": 16,
+					"column": 3
+				},
+				{
+        "_comment": "referred for ARI",
+					"categoryOptionCombo": "J0QYmZGlEii",
+					"dataElement": "cvo4qh1QkTA",
+					"row": 5,
+					"column": 3
+				},
+				{
+        "_comment": "Referred for Diarrhea",
+					"categoryOptionCombo": "J0QYmZGlEii",
+					"dataElement": "CIO7DFOzXSy",
+					"row": 6,
+					"column": 3
+				},
+				{
+         "_comment": "Referred for Others",
+					"categoryOptionCombo": "J0QYmZGlEii",
+					"dataElement": "z8fdZad32Pv",
+					"row": 9,
 					"column": 3
 				}
 			]
@@ -105,7 +110,7 @@
 					"column": 2
 				},
 				{
-					"_comment": "IV Fluid",
+					"_comment": "IV fluid",
 					"categoryOptionCombo": "kdsirVNKdhm",
 					"dataElement": "PbkNwfEqhmR",
 					"row": 3,
@@ -132,10 +137,11 @@
 			"dataValues": [{
 					"categoryOptionCombo": "kdsirVNKdhm",
 					"dataElement": "g4gt5htFQEZ",
-					"row": 2,
+					"row": 3,
 					"column": 2
 				},
 				{
+        "_comment": "non falciparum malaria",
 					"categoryOptionCombo": "kdsirVNKdhm",
 					"dataElement": "RByUk9PhqrG",
 					"row": 5,
@@ -144,28 +150,32 @@
 				{
 					"categoryOptionCombo": "J0QYmZGlEii",
 					"dataElement": "IM6lK8Mf0q1",
-					"row": 7,
+					"row": 2,
 					"column": 2
 				},
 				{
+        "_comment": "measles",
 					"categoryOptionCombo": "J0QYmZGlEii",
 					"dataElement": "fZEiEvVrr5K",
 					"row": 4,
 					"column": 2
 				},
 				{
+         "_comment": "Fever cases",
 					"categoryOptionCombo": "J0QYmZGlEii",
 					"dataElement": "IXYmLRVEHc2",
-					"row": 3,
+					"row": 7,
 					"column": 2
 				},
 				{
+        "_comment": "Aanemia",
 					"categoryOptionCombo": "J0QYmZGlEii",
 					"dataElement": "jg3YHWsBweg",
 					"row": 1,
 					"column": 2
 				},
 				{
+        "_comment": "Other diagnosis",
 					"categoryOptionCombo": "J0QYmZGlEii",
 					"dataElement": "YuNB9v6cf3x",
 					"row": 6,

@@ -1,5 +1,5 @@
 {
-	"orgUnit": "Bm39oMfSNir",
+	"orgUnit": "ovO6vDVvmrX",
 	"reports": {
 		"Tubercluosis Control Program Case Registration": {
 			"dataValues": [{
@@ -87,14 +87,14 @@
 					"column": 4
 				},
 				{
-					"_comment": "PBC-Transfer In_F",
+					"_comment": "PBC-Transfer in_F",
 					"categoryOptionCombo": "ye1QuAMRG5Z",
 					"dataElement": "jO7dhFuFC9m",
 					"row": 23,
 					"column": 4
 				},
 				{
-					"_comment": "PBC-Transfer In_M",
+					"_comment": "PBC-Transfer in_M",
 					"categoryOptionCombo": "PflKpozpO7b",
 					"dataElement": "jO7dhFuFC9m",
 					"row": 24,
@@ -174,14 +174,14 @@
 					"column": 4
 				},
 				{
-					"_comment": "PCD-Transfer In_F",
+					"_comment": "PCD-Transfer in_F",
 					"categoryOptionCombo": "ye1QuAMRG5Z",
 					"dataElement": "cG7NTPtPiw5",
 					"row": 37,
 					"column": 4
 				},
 				{
-					"_comment": "PCD-Transfer In_M",
+					"_comment": "PCD-Transfer in_M",
 					"categoryOptionCombo": "PflKpozpO7b",
 					"dataElement": "cG7NTPtPiw5",
 					"row": 38,
@@ -263,14 +263,14 @@
 					"column": 4
 				},
 				{
-					"_comment": "EP-Transfer In_F",
+					"_comment": "EP-Transfer in_F",
 					"categoryOptionCombo": "ye1QuAMRG5Z",
 					"dataElement": "EFN2XwRNZVz",
 					"row": 9,
 					"column": 4
 				},
 				{
-					"_comment": "EP-Transfer In_M",
+					"_comment": "EP-Transfer in_M",
 					"categoryOptionCombo": "PflKpozpO7b",
 					"dataElement": "EFN2XwRNZVz",
 					"row": 10,
@@ -524,14 +524,14 @@
 					"column": 3
 				},
 				{
-					"_comment": "Private Health Facility-F",
+					"_comment": "Private health facility-F",
 					"categoryOptionCombo": "ye1QuAMRG5Z",
 					"dataElement": "cPfucji1CUd",
 					"row": 5,
 					"column": 3
 				},
 				{
-					"_comment": "Private Health Facility-M",
+					"_comment": "Private health facility-M",
 					"categoryOptionCombo": "PflKpozpO7b",
 					"dataElement": "cPfucji1CUd",
 					"row": 6,
@@ -569,14 +569,14 @@
 					"column": 3
 				},
 				{
-					"_comment": "Private Health Facility-F",
+					"_comment": "Private health facility-F",
 					"categoryOptionCombo": "ye1QuAMRG5Z",
 					"dataElement": "VRq3Qv7cmyB",
 					"row": 5,
 					"column": 3
 				},
 				{
-					"_comment": "Private Health Facility-M",
+					"_comment": "Private health facility-M",
 					"categoryOptionCombo": "PflKpozpO7b",
 					"dataElement": "VRq3Qv7cmyB",
 					"row": 6,
@@ -614,14 +614,14 @@
 					"column": 3
 				},
 				{
-					"_comment": "Private Health Facility-F",
+					"_comment": "Private health facility-F",
 					"categoryOptionCombo": "ye1QuAMRG5Z",
 					"dataElement": "gMPYjX5xPfa",
 					"row": 5,
 					"column": 3
 				},
 				{
-					"_comment": "Private Health Facility-M",
+					"_comment": "Private health facility-M",
 					"categoryOptionCombo": "PflKpozpO7b",
 					"dataElement": "gMPYjX5xPfa",
 					"row": 6,
@@ -659,14 +659,14 @@
 					"column": 4
 				},
 				{
-					"_comment": "PCD-Private Health Facility-F",
+					"_comment": "PCD-Private health facility-F",
 					"categoryOptionCombo": "ye1QuAMRG5Z",
 					"dataElement": "To880ODaTWv",
 					"row": 11,
 					"column": 4
 				},
 				{
-					"_comment": "PCD-Private Health Facility-M",
+					"_comment": "PCD-Private health facility-M",
 					"categoryOptionCombo": "PflKpozpO7b",
 					"dataElement": "To880ODaTWv",
 					"row": 12,
@@ -703,14 +703,14 @@
 					"column": 4
 				},
 				{
-					"_comment": "EP-Private Health Facility-F",
+					"_comment": "EP-Private health facility-F",
 					"categoryOptionCombo": "ye1QuAMRG5Z",
 					"dataElement": "fFQJ1XEUqNj",
 					"row": 4,
 					"column": 4
 				},
 				{
-					"_comment": "EP-Private Health Facility-M",
+					"_comment": "EP-Private health facility-M",
 					"categoryOptionCombo": "PflKpozpO7b",
 					"dataElement": "fFQJ1XEUqNj",
 					"row": 5,
@@ -979,14 +979,14 @@
 					"column": 3
 				},
 				{
-					"_comment": "No of Cases Registered-Treatment After Lost to Follow-up-Female",
+					"_comment": "No of Cases Registered-Treatment After Lost to Follow up-Female",
 					"categoryOptionCombo": "ye1QuAMRG5Z",
 					"dataElement": "ual1mXMswzb",
 					"row": 13,
 					"column": 3
 				},
 				{
-					"_comment": "No of Cases Registered-Treatment After Lost to Follow-up-Male",
+					"_comment": "No of Cases Registered-Treatment After Lost to Follow up-Male",
 					"categoryOptionCombo": "PflKpozpO7b",
 					"dataElement": "ual1mXMswzb",
 					"row": 14,
@@ -1067,14 +1067,14 @@
 					"column": 4
 				},
 				{
-					"_comment": "Negative-Treatment After Lost to Follow-up-Female",
+					"_comment": "Negative-Treatment After Lost to Follow up-Female",
 					"categoryOptionCombo": "ye1QuAMRG5Z",
 					"dataElement": "YuYD6F6r1Gr",
 					"row": 41,
 					"column": 4
 				},
 				{
-					"_comment": "Negative-Treatment After Lost to Follow-up-Male",
+					"_comment": "Negative-Treatment After Lost to Follow up-Male",
 					"categoryOptionCombo": "PflKpozpO7b",
 					"dataElement": "YuYD6F6r1Gr",
 					"row": 42,
@@ -1154,14 +1154,14 @@
 					"column": 4
 				},
 				{
-					"_comment": "Positive-Treatment After Lost to Follow-up-Female",
+					"_comment": "Positive-Treatment After Lost to Follow up-Female",
 					"categoryOptionCombo": "ye1QuAMRG5Z",
 					"dataElement": "n6xh2AJqQ0V",
 					"row": 69,
 					"column": 4
 				},
 				{
-					"_comment": "Positive-Treatment After Lost to Follow-up-Male",
+					"_comment": "Positive-Treatment After Lost to Follow up-Male",
 					"categoryOptionCombo": "PflKpozpO7b",
 					"dataElement": "n6xh2AJqQ0V",
 					"row": 70,
@@ -1242,14 +1242,14 @@
 					"column": 4
 				},
 				{
-					"_comment": "Died-Treatment After Lost to Follow-up-Female",
+					"_comment": "Died-Treatment After Lost to Follow up-Female",
 					"categoryOptionCombo": "ye1QuAMRG5Z",
 					"dataElement": "IIo9AHznuqQ",
 					"row": 13,
 					"column": 4
 				},
 				{
-					"_comment": "Died-Treatment After Lost to Follow-up-Male",
+					"_comment": "Died-Treatment After Lost to Follow up-Male",
 					"categoryOptionCombo": "PflKpozpO7b",
 					"dataElement": "IIo9AHznuqQ",
 					"row": 14,
@@ -1326,14 +1326,14 @@
 					"column": 4
 				},
 				{
-					"_comment": "Lost to Follow Up-Treatment After Lost to Follow-up-Female",
+					"_comment": "Lost to Follow Up-Treatment After Lost to Follow up-Female",
 					"categoryOptionCombo": "ye1QuAMRG5Z",
 					"dataElement": "oPliB3cHuiI",
 					"row": 27,
 					"column": 4
 				},
 				{
-					"_comment": "Lost to Follow Up-Treatment After Lost to Follow-up-Male",
+					"_comment": "Lost to Follow Up-Treatment After Lost to Follow up-Male",
 					"categoryOptionCombo": "PflKpozpO7b",
 					"dataElement": "oPliB3cHuiI",
 					"row": 28,
@@ -1410,14 +1410,14 @@
 					"column": 4
 				},
 				{
-					"_comment": "Not Evaluated-Treatment After Lost to Follow-up-Female",
+					"_comment": "Not Evaluated-Treatment After Lost to Follow up-Female",
 					"categoryOptionCombo": "ye1QuAMRG5Z",
 					"dataElement": "YF5NetnZPsY",
 					"row": 55,
 					"column": 4
 				},
 				{
-					"_comment": "Not Evaluated-Treatment After Lost to Follow-up-Male",
+					"_comment": "Not Evaluated-Treatment After Lost to Follow up-Male",
 					"categoryOptionCombo": "PflKpozpO7b",
 					"dataElement": "YF5NetnZPsY",
 					"row": 56,
@@ -1500,14 +1500,14 @@
 					"column": 3
 				},
 				{
-					"_comment": "Treatment After Lost to Follow-up_F",
+					"_comment": "Treatment After Lost to Follow up_F",
 					"categoryOptionCombo": "Uec0VacaHJP",
 					"dataElement": "fAFEAcRRml8",
 					"row": 13,
 					"column": 3
 				},
 				{
-					"_comment": "Treatment After Lost to Follow-up_M",
+					"_comment": "Treatment After Lost to Follow up_M",
 					"categoryOptionCombo": "vJYN5WJjlYb",
 					"dataElement": "fAFEAcRRml8",
 					"row": 14,
@@ -1809,84 +1809,84 @@
 
 
 				{
-					"_comment": "Treatment After Lost to Follow-up_Cured_F",
+					"_comment": "Treatment After Lost to Follow up_Cured_F",
 					"categoryOptionCombo": "wjdXuhqtVhf",
 					"dataElement": "fAFEAcRRml8",
 					"row": 95,
 					"column": 4
 				},
 				{
-					"_comment": "Treatment After Lost to Follow-up_Cured_M",
+					"_comment": "Treatment After Lost to Follow up_Cured_M",
 					"categoryOptionCombo": "Cl72LTrLUSU",
 					"dataElement": "fAFEAcRRml8",
 					"row": 96,
 					"column": 4
 				},
 				{
-					"_comment": "Treatment After Lost to Follow-up_Completed_F",
+					"_comment": "Treatment After Lost to Follow up_Completed_F",
 					"categoryOptionCombo": "DvLSiluBRQd",
 					"dataElement": "fAFEAcRRml8",
 					"row": 93,
 					"column": 4
 				},
 				{
-					"_comment": "Treatment After Lost to Follow-up_Completed_M",
+					"_comment": "Treatment After Lost to Follow up_Completed_M",
 					"categoryOptionCombo": "iAHkWYLKUk1",
 					"dataElement": "fAFEAcRRml8",
 					"row": 94,
 					"column": 4
 				},
 				{
-					"_comment": "Treatment After Lost to Follow-up_Failure_F",
+					"_comment": "Treatment After Lost to Follow up_Failure_F",
 					"categoryOptionCombo": "wIj6SB9WRIx",
 					"dataElement": "fAFEAcRRml8",
 					"row": 91,
 					"column": 4
 				},
 				{
-					"_comment": "Treatment After Lost to Follow-up_Failure_M",
+					"_comment": "Treatment After Lost to Follow up_Failure_M",
 					"categoryOptionCombo": "oGC0sE7ZFMu",
 					"dataElement": "fAFEAcRRml8",
 					"row": 92,
 					"column": 4
 				},
 				{
-					"_comment": "Treatment After Lost to Follow-up_Died_F",
+					"_comment": "Treatment After Lost to Follow up_Died_F",
 					"categoryOptionCombo": "uGqB9YxRzQ2",
 					"dataElement": "fAFEAcRRml8",
 					"row": 85,
 					"column": 4
 				},
 				{
-					"_comment": "Treatment After Lost to Follow-up_Died_M",
+					"_comment": "Treatment After Lost to Follow up_Died_M",
 					"categoryOptionCombo": "aiFJXfilgnl",
 					"dataElement": "fAFEAcRRml8",
 					"row": 86,
 					"column": 4
 				},
 				{
-					"_comment": "Treatment After Lost to Follow-up_Lost to follow up_F",
+					"_comment": "Treatment After Lost to Follow up_Lost to follow up_F",
 					"categoryOptionCombo": "x0dVqa51F1T",
 					"dataElement": "fAFEAcRRml8",
 					"row": 97,
 					"column": 4
 				},
 				{
-					"_comment": "Treatment After Lost to Follow-up_Lost to follow up_M",
+					"_comment": "Treatment After Lost to Follow up_Lost to follow up_M",
 					"categoryOptionCombo": "WrZHRazfUpy",
 					"dataElement": "fAFEAcRRml8",
 					"row": 98,
 					"column": 4
 				},
 				{
-					"_comment": "Treatment After Lost to Follow-up_Not Evaluated_F",
+					"_comment": "Treatment After Lost to Follow up_Not Evaluated_F",
 					"categoryOptionCombo": "hfiVShwg9Wo",
 					"dataElement": "fAFEAcRRml8",
 					"row": 87,
 					"column": 4
 				},
 				{
-					"_comment": "Treatment After Lost to Follow-up_Not Evaluated_M",
+					"_comment": "Treatment After Lost to Follow up_Not Evaluated_M",
 					"categoryOptionCombo": "rk5aLXM2ii2",
 					"dataElement": "fAFEAcRRml8",
 					"row": 88,
@@ -2695,14 +2695,14 @@
 					"column": 3
 				},
 				{
-					"_comment": "Transfer In_F",
+					"_comment": "Transfer in_F",
 					"categoryOptionCombo": "ye1QuAMRG5Z",
 					"dataElement": "RkR5HMo64zw",
 					"row": 7,
 					"column": 3
 				},
 				{
-					"_comment": "Transfer In_M",
+					"_comment": "Transfer in_M",
 					"categoryOptionCombo": "PflKpozpO7b",
 					"dataElement": "RkR5HMo64zw",
 					"row": 8,
@@ -2945,14 +2945,14 @@
 					"column": 4
 				},
 				{
-					"_comment": "Cured Transfer In_F",
+					"_comment": "Cured Transfer in_F",
 					"categoryOptionCombo": "ye1QuAMRG5Z",
 					"dataElement": "rue8Mv3u9iT",
 					"row": 70,
 					"column": 4
 				},
 				{
-					"_comment": "Cured Transfer In_M",
+					"_comment": "Cured Transfer in_M",
 					"categoryOptionCombo": "PflKpozpO7b",
 					"dataElement": "rue8Mv3u9iT",
 					"row": 71,
@@ -3043,14 +3043,14 @@
 					"column": 4
 				},
 				{
-					"_comment": "Completed Transfer In_F",
+					"_comment": "Completed Transfer in_F",
 					"categoryOptionCombo": "ye1QuAMRG5Z",
 					"dataElement": "DmiWnPPc4LK",
 					"row": 55,
 					"column": 4
 				},
 				{
-					"_comment": "Completed Transfer In_M",
+					"_comment": "Completed Transfer in_M",
 					"categoryOptionCombo": "PflKpozpO7b",
 					"dataElement": "DmiWnPPc4LK",
 					"row": 56,
@@ -3141,14 +3141,14 @@
 					"column": 4
 				},
 				{
-					"_comment": "Failure Transfer In_F",
+					"_comment": "Failure Transfer in_F",
 					"categoryOptionCombo": "ye1QuAMRG5Z",
 					"dataElement": "i0XYfLj09dL",
 					"row": 39,
 					"column": 4
 				},
 				{
-					"_comment": "Failure Transfer In_M",
+					"_comment": "Failure Transfer in_M",
 					"categoryOptionCombo": "PflKpozpO7b",
 					"dataElement": "i0XYfLj09dL",
 					"row": 40,
@@ -3239,14 +3239,14 @@
 					"column": 4
 				},
 				{
-					"_comment": "Died Transfer In_F",
+					"_comment": "Died Transfer in_F",
 					"categoryOptionCombo": "ye1QuAMRG5Z",
 					"dataElement": "VV2j0cn9lNo",
 					"row": 7,
 					"column": 4
 				},
 				{
-					"_comment": "Died Transfer In_M",
+					"_comment": "Died Transfer in_M",
 					"categoryOptionCombo": "PflKpozpO7b",
 					"dataElement": "VV2j0cn9lNo",
 					"row": 8,
@@ -3337,14 +3337,14 @@
 					"column": 4
 				},
 				{
-					"_comment": "Lost to Follow Up Transfer In_F",
+					"_comment": "Lost to Follow Up Transfer in_F",
 					"categoryOptionCombo": "ye1QuAMRG5Z",
 					"dataElement": "Wwa9XLrEbKt",
 					"row": 87,
 					"column": 4
 				},
 				{
-					"_comment": "Lost to Follow Up Transfer In_M",
+					"_comment": "Lost to Follow Up Transfer in_M",
 					"categoryOptionCombo": "PflKpozpO7b",
 					"dataElement": "Wwa9XLrEbKt",
 					"row": 88,
@@ -3435,14 +3435,14 @@
 					"column": 4
 				},
 				{
-					"_comment": "Not Evaluated Transfer In_F",
+					"_comment": "Not Evaluated Transfer in_F",
 					"categoryOptionCombo": "ye1QuAMRG5Z",
 					"dataElement": "gqNFPBEZ1U7",
 					"row": 23,
 					"column": 4
 				},
 				{
-					"_comment": "Not Evaluated Transfer In_M",
+					"_comment": "Not Evaluated Transfer in_M",
 					"categoryOptionCombo": "PflKpozpO7b",
 					"dataElement": "gqNFPBEZ1U7",
 					"row": 24,
@@ -3536,14 +3536,14 @@
 					"column": 3
 				},
 				{
-					"_comment": " Transfer In_F",
+					"_comment": " Transfer in_F",
 					"categoryOptionCombo": "ye1QuAMRG5Z",
 					"dataElement": "FAoCIR4Meby",
 					"row": 7,
 					"column": 3
 				},
 				{
-					"_comment": " Transfer In_M",
+					"_comment": " Transfer in_M",
 					"categoryOptionCombo": "PflKpozpO7b",
 					"dataElement": "FAoCIR4Meby",
 					"row": 8,
