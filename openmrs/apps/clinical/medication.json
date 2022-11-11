@@ -50,6 +50,7 @@
           "Unit(s)",
           "Puff(s)",
           "mg",
+          "ftu",
           "ml",
           "Tablet(s)",
           "IU"
@@ -122,6 +123,11 @@
             "route": "Topical"
           },
           "Ointment": {
+            "doseUnits": "ftu",
+            "route": "Topical"
+          },
+          "Cream": {
+            "doseUnits": "ftu",
             "route": "Topical"
           },
           "Pessary": {
